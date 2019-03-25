@@ -1,0 +1,10 @@
+- git: {local-name: racecar,                                    version: bwsi_2017,        uri: 'https://github.com/husmen/racecar.git'}
+- git: {local-name: racecar-simulator,                          version: bwsi_2017,        uri: 'https://github.com/fourplusone41/racecar-simulator.git'}
+- git: {local-name: racecar-controllers,                        version: master,           uri: 'https://github.com/fourplusone41/racecar-controllers.git'}
+- git: {local-name: racecar-other/vesc,                         version: master,           uri: 'https://github.com/fourplusone41/vesc.git'}
+- git: {local-name: racecar-other/robot_localization,           version: kinetic-devel,    uri: 'https://github.com/fourplusone41/robot_localization.git'}
+
+- git: {local-name: racecar-sensors/sweep-ros,                  version: master,           uri: 'https://github.com/fourplusone41/sweep-ros.git'}
+- git: {local-name: racecar-sensors/rplidar_ros,                version: master,           uri: 'https://github.com/fourplusone41/rplidar_ros.git'}
+- git: {local-name: racecar-sensors/zed-ros-wrapper,            version: master,           uri: 'https://github.com/fourplusone41/zed-ros-wrapper.git'}
+- git: {local-name: racecar-sensors/razor_imu_m0_driver,        version: devel,            uri: 'https://github.com/fourplusone41/razor_imu_m0_driver.git'}
